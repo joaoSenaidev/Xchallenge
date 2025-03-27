@@ -34,5 +34,8 @@ Mascote do Grupo:
 
 link do arquivo:https://drive.google.com/file/d/1r7orRa_X79v-T5Mag5-pFRwv01xoTZCr/view?usp=sharing
 
+DataBase XChallenge
+API doc: https://drive.google.com/file/d/1EVkJvsOTrH4WAR-d5GRHagxyaYhGLAcX/view?usp=sharing
+
 
 
